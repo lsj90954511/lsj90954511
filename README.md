@@ -16,16 +16,21 @@
 
 <h3 align="center">⚒️ Skills ⚒️</h3>
 <div align="center">
+<p>
 <!--c++-->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <!--c#-->
-<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
 <!--oracle-->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 <!--github-->
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <!--unity-->
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white">  
+</p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj90954511&include_all_commits=true&show_icons=true&theme=radical)  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lsj90954511&theme=dark)
 </div>
 <!--
 **lsj90954511/lsj90954511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
