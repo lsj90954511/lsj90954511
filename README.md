@@ -21,12 +21,22 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <!--c#-->
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
-<!--oracle-->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+<!--java-->
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
+  <p>
+<!--mysql-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+    <p>
+<!--springboot-->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+<!--flutter-->
+  <img src="https://img.shields.io/badge/Fluter-02569B?style=flat&logo=Flutter&logoColor=white">
+<!--unity-->
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white">
+      <p>
 <!--github-->
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<!--unity-->
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white">  
+
 </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj90954511&include_all_commits=true&show_icons=true&theme=radical)  
