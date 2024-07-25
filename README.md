@@ -17,24 +17,16 @@
 <h3 align="center">⚒️ Skills ⚒️</h3>
 <div align="center">
 <p>
-<!--c++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<!--c#-->
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
-<!--java-->
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
   <p>
-<!--mysql-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <p>
-<!--springboot-->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-<!--flutter-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Fluter-02569B?style=flat&logo=Flutter&logoColor=white">
-<!--unity-->
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white">
       <p>
-<!--github-->
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
 </p>
