@@ -32,9 +32,9 @@
 </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj90954511&include_all_commits=true&show_icons=true&theme=radical)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lsj90954511&theme=dark)
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=lsj90954511&theme=dark)
 </div>
-<!--
+
 **lsj90954511/lsj90954511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
